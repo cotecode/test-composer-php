@@ -1,0 +1,16 @@
+{
+    "name": "math-operation/math-operation",
+    "description": "Test library composer operasi matematika sederhana",
+    "authors": [
+        {
+            "name": "nico",
+            "email": "nicoparulian2@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OperasiMatematikaSimple\\": "src/"
+        }
+    }
+}
